@@ -2,3 +2,4 @@
 *.cpp linguist-language=C++
 *.h linguist-language=C++
 *.R linguist-detectable=false
+Results/** linguist-generated
